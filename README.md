@@ -14,10 +14,6 @@ To view and interact with the glass effect cards, open the project in a web brow
 
 If you would like to contribute to this project, feel free to suggest improvements or report issues. Contributions are welcome through pull requests or by opening issues in the project repository.
 
-## License
-
-This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
-
 ## Developer
 
 ```bash
